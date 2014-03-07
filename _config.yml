@@ -2,7 +2,7 @@ title:        dzerrenner
 tagline:      'Information about my projects'
 description:  'Me on GitHub: <a href="http://github.com/dzerrenner">github.com/dzerrenner</a>. <br/><a href="http://andhyde.com">Hyde</a> theme by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:          http://dzerrenner.github.io
-version:      1.1.1
+version:      1.0.0
 author:
   name:       'David Zerrenner'
   email:      'dazer@bluenode.de'
