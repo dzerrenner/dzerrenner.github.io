@@ -10,3 +10,6 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 paginate:     5
+gems:
+- jekyll-mentions
+- jemoji
