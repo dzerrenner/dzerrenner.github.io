@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "ledave.rocks"
+# logo = "img/logo.jpg"
+description = "Mostly fiddling around."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[taxonomies]
+  category = 'categories'
+
+[author]
+  name = "LeDave"
+  image = "img/pixel_avatar.png"
+  headline = "Mostly fiddling around."
+  bio = "netcitizen • pythonista • retrogamer • pen & paper RPG • geek"
+  links = [    
+    { mastodon = "https://hachyderm.io/@ledave" },
+    { twitter = "https://twitter.com/DavidZerrenner" },
+    { github = "https://github.com/dzerrenner" },    
+    { email = "mailto:dazer017@gmail.com" },
+  ]
