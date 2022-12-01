@@ -16,6 +16,8 @@ But one item caught my eyes: an old C64-C or II. I had a breadbin in my childhoo
 
 ## First look
 
+The machine seems to be in quite good shape, there was not much dust in there. It was either cleaned by the seller or was stored very well.
+
 Here are some low effort images:
 
 ## Future plans
