@@ -2,7 +2,6 @@
 title: "I bought an old computer"
 date: 2022-11-30T21:58:43+01:00
 draft: true
-author: LeDave
 categories: 
     - C64
 ---
